@@ -1,0 +1,5 @@
+Kaggle URL : 
+https://www.kaggle.com/datasets/aslanahmedov/predict-term-deposit
+
+HuggingFace URL : 
+https://huggingface.co/spaces/nakedinosaur/deposit_term_prediction
